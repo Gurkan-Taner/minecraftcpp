@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Minecract C++
 Minecraft clone in C++ with Raylib.
 
 ## Requirements
